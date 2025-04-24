@@ -1,0 +1,45 @@
+{
+    "name": "API",
+    "version": "1.0.0",
+    "description": "WANZOFC",
+    "depecrated": false,
+    "main": "server.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.7.9",
+         "btoa": "^1.2.1",
+           "cors": "^2.8.5",
+        "child_process": "^1.0.2",
+        "cloudscraper": "^4.6.0",
+        "cluster": "^0.7.7",
+        "colors": "^1.4.0",
+        "crypto": "^1.0.1",
+        "dns": "^0.2.2",
+        "express": "^4.21.2",
+        "fs": "^0.0.1-security",
+        "hpack": "^1.0.0",
+        "http": "^0.0.1-security",
+        "http2": "^3.3.6",
+        "https": "^1.0.0",
+        "minimist": "^1.2.8",
+        "net": "^1.0.2",
+        "node-fetch": "^3.3.2",
+        "os": "^0.1.2",
+        "path": "^0.12.7",
+        "randomstring": "^1.3.1",
+        "request": "^2.88.2",
+        "socks": "^2.8.3",
+        "ssh2": "^1.16.0",
+        "tls": "^0.0.1",
+        "url": "^0.11.4",
+        "user-agents": "^1.1.441",
+        "utils": "^0.3.1"
+    },
+    "author": "KAVERNXYZ"
+}
